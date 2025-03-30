@@ -1,2 +1,2 @@
-# SEMIS-ACT-LAB-1
+# Python to C++ conversion
 C++: Python dictionary converted into C++
